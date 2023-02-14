@@ -1,0 +1,70 @@
+.header{
+    padding: auto;
+    text-align: center;
+    font-size: x-large;
+}
+
+.logo{
+    color: red;
+    background-color: antiquewhite;
+    font-size: 90px;
+}
+
+.h2{
+    color: blue;
+    font-size: 25px;
+}
+
+.nav-items{
+    background-color: white;
+    margin-top: auto;
+    padding-bottom: 50px;
+}
+
+.about-me {
+    display: flex;
+    background-color: antiquewhite;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 80px;
+    border-top: 2px solid #eeeeee;
+    font-size: 25px;
+  }
+
+.con1{
+    text-align: center;
+    color: black;
+    background-color: antiquewhite;
+
+ }
+
+form {
+    max-width: 600px;
+    text-align: center;
+    margin: 20px auto;
+}
+
+input, textarea {
+    padding: 1em;
+    display: block;
+    width: 90%;
+    margin-top: 1em;
+    font-family: 'Merriweather', sans-serif;
+    resize: none;
+}
+   
+   
+
+.half {
+    float: left;
+    width: 48%;
+    margin-bottom: 1em;
+  }
+  
+  .right { width: 50%; }
+  
+  .left {
+       margin-right: 2%; 
+  }
+
+
